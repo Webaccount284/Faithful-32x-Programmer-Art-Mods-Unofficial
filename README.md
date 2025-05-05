@@ -13,7 +13,7 @@
 ## How to download:
 Select the desired Minecraft version using the dropdown above, then press the big green Code button and select Download ZIP.  
 <img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="center" height="256px">  
-A Vanilla Tweaks-style mod picker for easier and smaller downloads is planned for our future site rewrite.
+A Vanilla Tweaks-style mod picker for easier and smaller downloads is planned for Faithful's site rewrite.
 
 ## How to contribute:
 If you want to submit your textures to Faithful 32x Mods Programmer Art, please make a pull request to the correct version branch. If you're making textures for a Minecraft version that's not yet supported, make sure to give the branch you're working on an appropriate Minecraft version number.  
