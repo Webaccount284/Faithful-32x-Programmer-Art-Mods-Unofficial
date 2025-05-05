@@ -3,9 +3,9 @@
   <h1>Faithful 32x Programmer Art Mods</h1>
   <h3>Mod support textures for Faithful 32x Programmer Art .</h3>
 
-![RepoSize](https://img.shields.io/github/repo-size/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial-)
-![Issues](https://img.shields.io/github/issues/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial-)
-![PullRequests](https://img.shields.io/github/issues-pr/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial-)
+![RepoSize](https://img.shields.io/github/repo-size/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial)
+![Issues](https://img.shields.io/github/issues/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial)
+![PullRequests](https://img.shields.io/github/issues-pr/Webaccount284/Faithful-32x-Programmer-Art-Mods-Unofficial)
 </div>
 
 ---
